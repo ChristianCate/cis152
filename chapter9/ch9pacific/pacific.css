@@ -240,7 +240,7 @@ tr:nth-last-of-type(odd) {
         color: #1976d2; /* c#1976d2 */
     }
     td:last-of-type {
-        border-block-start: 2px solid #1b69b2; /* bb2-solid#1b69b2 */
+        border-bottom: 2px solid #1b69b2; /* bb2-solid#1b69b2 */
     }
 }
 
