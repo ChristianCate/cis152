@@ -216,8 +216,8 @@ video {
 }
 
 #abimage {
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 100%;
+    
 }
 
 
